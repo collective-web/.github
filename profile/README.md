@@ -1,0 +1,5 @@
+# .github
+
+## Project structure:
+
+### NaN
